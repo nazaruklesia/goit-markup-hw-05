@@ -455,7 +455,6 @@ a {
 .footer-media {
   display: flex;
   flex-direction: column;
-  margin-left: 120px;
   padding: 0;
 }
 
@@ -554,7 +553,6 @@ a {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
-  gap: 16px;
   align-items: center;
   justify-content: center;
   border-radius: 4px;
